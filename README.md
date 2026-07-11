@@ -1,5 +1,5 @@
 # Nour-Home-Decor
-# Nour Home Decor 🏺
+
 
 A single-page frontend website for a fictional home décor & lifestyle shop, built with pure HTML, CSS, and JavaScript. Created as a freelance training project simulating a real client brief.
 
